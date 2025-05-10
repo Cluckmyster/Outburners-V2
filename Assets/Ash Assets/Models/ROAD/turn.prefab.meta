@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 66b1677241fcf994788eb4ae8de0f761
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187803
+  packageName: Ash Vehicle Physics
+  packageVersion: 3.3
+  assetPath: Assets/Ash Assets/Models/ROAD/turn.prefab
+  uploadId: 721655

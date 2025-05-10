@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a14b090b6ddab7a45a5d2b9bdb60d7b4
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187803
+  packageName: Ash Vehicle Physics
+  packageVersion: 3.3
+  assetPath: Assets/Ash Assets/Materials/Target.mat
+  uploadId: 721655

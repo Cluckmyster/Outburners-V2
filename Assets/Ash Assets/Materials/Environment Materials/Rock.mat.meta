@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2804b18072b06584fb2ceb6c4f5e7724
+timeCreated: 1477836234
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187803
+  packageName: Ash Vehicle Physics
+  packageVersion: 3.3
+  assetPath: Assets/Ash Assets/Materials/Environment Materials/Rock.mat
+  uploadId: 721655

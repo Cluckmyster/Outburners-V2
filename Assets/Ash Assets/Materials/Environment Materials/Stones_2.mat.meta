@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: be84bb5d9eb6cbb4d97dcad8b368573e
+timeCreated: 1477836558
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187803
+  packageName: Ash Vehicle Physics
+  packageVersion: 3.3
+  assetPath: Assets/Ash Assets/Materials/Environment Materials/Stones_2.mat
+  uploadId: 721655
